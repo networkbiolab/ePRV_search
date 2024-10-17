@@ -5,8 +5,8 @@ Running the Script:
 Place the script in a directory accessible from your command line.
 Use the following command format to run the script:
 
-./script_name.py path_to_input_file.gtf path_to_output_file.gff
+./GTF_to_GFF.py path_to_input_file.gtf path_to_output_file.gff
 
 Command Line Example:
 
-./script_name.py example_input.gtf output.gff
+./GTF_to_GFF.py example_input.gtf output.gff
